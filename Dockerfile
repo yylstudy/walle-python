@@ -1,1 +1,1 @@
-FROM alenx/walle-python
+FROM alenx/walle-python:2.1
